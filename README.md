@@ -9,5 +9,5 @@ This is the Frontend Web page. Its purpose is to make user experience better and
 2. CSS
 3. JAVASCRIPT
 4. BOOTSTRAP
-# sde-intern
+
 
